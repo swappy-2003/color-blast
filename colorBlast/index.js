@@ -24,7 +24,7 @@
             this.maxEnemies = 6;
             this.enemiesAlive = 0;
             this.currentFrame = 0;
-            this.maxLives = 30;
+            this.maxLives = 3;
             this.life = 0;
             this.binding();
             this.player = new Player();
